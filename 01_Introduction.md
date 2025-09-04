@@ -11,10 +11,8 @@ At its simplest, **data** is a collection of facts, figures, and statistics gath
 * It can be as simple as a **customer’s name**, or as complex as **real-time IoT sensor readings** from a factory.
 * Professionals who work with data (often called **Data Analysts** or **Data Scientists**) clean, organize, and analyze datasets to turn raw information into **actionable insights**.
 
-<div class=".callout_okay">
-> 💡**Key Idea**
+> [!IMPORTANT]
 > Think of data as the "raw material" and analytics as the "machinery" that refines it into knowledge.
-</div>
 
 ## Gathering and Classifying Data
 
@@ -35,10 +33,8 @@ Before analysis, data must be **collected and categorized**. Sources vary widely
    * Information willingly shared by users.
    * Examples: Filling out surveys, registering for newsletters, app preference settings.
 
-<div class=".callout_info">
-> 📌 **Note:** 
+> [!NOTE]
 > Combining these three types often provides the richest picture of user behavior.
-</div>
 
 ## Aims of Data Analytics
 
@@ -72,8 +68,8 @@ When analyzing data, it’s important to recognize its **types and structure**:
 * **Structured:** Organized in rows/columns (e.g., relational databases, spreadsheets).
 * **Unstructured:** Free-form and harder to analyze (e.g., emails, videos, tweets).
 
-> ⚠️ **Remember** 
-> The majority of today’s data is **unstructured** — requiring advanced tools like Natural Language Processing (NLP) or image recognition to extract value.
+> [!WARNING] 
+> The majority of today’s data is **unstructured** requiring advanced tools like Natural Language Processing (NLP) or image recognition to extract value.
 
 ## Data Analytics for Business Insights
 
