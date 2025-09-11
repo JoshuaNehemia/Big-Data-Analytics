@@ -107,7 +107,7 @@ Big Data Analytics expands traditional analytics by dealing with **volume, veloc
 * **Finance** → Fraud detection through anomaly detection.
 * **Transportation** → Optimizing routes using GPS and sensor data.
 
-##  & Techniques in Big Data Analytics
+### Techniques in Big Data Analytics
 
 * **Frameworks:** Hadoop, Spark.
 * **Databases:** SQL, NoSQL (MongoDB, Cassandra).
